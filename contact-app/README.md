@@ -1,6 +1,6 @@
 # 👨‍💼 Contact Manager Web App
 
-## Description
+## 📝 Description
 Developed a single-page application (SPA) using React to manage contacts with full CRUD functionality and a clean, responsive UI.
 
 ## 🚀 Key Features : 
